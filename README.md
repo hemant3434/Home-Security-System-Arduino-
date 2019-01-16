@@ -9,12 +9,12 @@ A person walks in front of one alarm and bluetooth module sends a signal to the 
 fire alarm system in a school. IR receiver is used to control the volume of alarms which is displayed on the LCD.
 
 Parts Used: 
-  Arduino Rev3
-  PIR Motion Sensor
-  Piezo Buzzer
-  LCD (16x2) Display
-  Bluetooth HC-05 Module (Master and Slave)
-  IR Receiver and Remote
+  Arduino Rev3,
+  PIR Motion Sensor,
+  Piezo Buzzer,
+  LCD (16x2) Display,
+  Bluetooth HC-05 Module (Master and Slave),
+  IR Receiver and Remote. 
 
 
 Youtube Link for Explanation and Procedures: https://youtu.be/rKdQ92TjwMk
