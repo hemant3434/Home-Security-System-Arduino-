@@ -17,4 +17,5 @@ Parts Used:
   IR Receiver and Remote. 
 
 
+Code Provided for both Master and Slave.
 Youtube Link for Explanation and Procedures: https://youtu.be/rKdQ92TjwMk
