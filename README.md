@@ -17,5 +17,8 @@ Parts Used:
   IR Receiver and Remote. 
 
 
+
 Code Provided for both Master and Slave.
+Breadboard design and schematic are also uploaded.
 Youtube Link for Explanation and Procedures: https://youtu.be/rKdQ92TjwMk
+
